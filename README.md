@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 
 ```js
-Languages:    JavaScript, TypeScript, Python, C#, C++, SQL  
+Languages:    Php, Java, JavaScript, TypeScript, Python, C#, C++, SQL  
 Frontend:     React.js, Next.js, Tailwind CSS, Next UI  
 Backend:      Node.js, Express, Firebase, PostgreSQL, MongoDB  
 Mobile:       React Native  
