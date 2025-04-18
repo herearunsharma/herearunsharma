@@ -1,3 +1,4 @@
+
 # 👋 Hey there, I'm Arun Sharma!
 
 🚀 I'm a passionate **Full-Stack Developer**, **Cybersecurity Enthusiast**, and **Automation Engineer** who loves building scalable systems, AI-powered tools, and security-focused products.
@@ -12,6 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
+
 ```js
 Languages:    JavaScript, TypeScript, Python, C#, C++, SQL  
 Frontend:     React.js, Next.js, Tailwind CSS, Next UI  
@@ -21,16 +23,21 @@ Desktop:      WPF (.NET), WinForms
 Security:     Offensive Tooling, Python Automation, Shell Access  
 AI/ML:        Stable Diffusion, LoRA, Llama.cpp, FFmpeg  
 DevOps:       GitHub Actions, PM2, Vercel, AWS (S3), Nginx  
+```
 
-🌍 Connect With Me
-🌐 [thearunsharma.com](https://thearunsharma.com)
-📫 herearunsharma[at]gmail.com
-💬 Telegram: `@herearunsharma`
-🧠 Currently learning: Deep Offensive Security & AI Toolchains
+---
 
-📂 Notable Projects
-🧾 HRMS (Human Resource System) – Multi-tenant SaaS HR system with payroll & attendance
-🎬 IndianFolk (Streaming Platform) – Netflix-style full-stack movie app using React + Node
-🎨 NFT Generator – Local image gen using SD1.5 + ControlNet for consistent trait-based NFTs
-⚔️ Egonix Client – Custom WPF Minecraft tool with overlays, click GUI, config system
-🛡️ CyberSec Scripts – SMTP cracker, phishing simulation, shell access automation
+### 🌍 Connect With Me
+- 🌐 [thearunsharma.com](https://thearunsharma.com)
+- 📫 [herearunsharma@gmail.com](mailto:herearunsharma@gmail.com)
+- 💬 [@herearunsharma on Telegram](https://t.me/herearunsharma)
+- 🧠 Currently learning: Deep Offensive Security & AI Toolchains
+
+---
+
+### 📂 Notable Projects
+- 🧾 **HRMS (Human Resource System)** – Multi-tenant SaaS HR system with payroll & attendance  
+- 🎬 **IndianFolk (Streaming Platform)** – Netflix-style full-stack movie app using React + Node  
+- 🎨 **NFT Generator** – Local image gen using SD1.5 + ControlNet for consistent trait-based NFTs  
+- ⚔️ **Egonix Client** – Custom WPF Minecraft tool with overlays, click GUI, config system  
+- 🛡️ **CyberSec Scripts** – SMTP cracker, phishing simulation, shell access automation
